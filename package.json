@@ -1,0 +1,19 @@
+{
+  "name": "magnitude-formatter",
+  "version": "1.0.0",
+  "description": "Formats a number to represent it's magnitude",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RauppRafael/magnitude-formatter.git"
+  },
+  "author": "Rafael Raupp (raupperino@gmail.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RauppRafael/magnitude-formatter/issues"
+  },
+  "homepage": "https://github.com/RauppRafael/magnitude-formatter#readme"
+}
